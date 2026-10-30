@@ -1,0 +1,61 @@
+{
+  "assets": [
+    {
+      "contentType": "image/svg+xml",
+      "id": "8089d86be9de1eb6",
+      "kind": "image",
+      "name": "RVU-logo.svg",
+      "path": "/tmp/browser-use/assets/249afa2f-6ee2-47a0-bea0-3610a53ddc66/8089d86be9de1eb6.svg",
+      "url": "https://bcarvu.netlify.app/assets/icons/RVU-logo.svg"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4b6a983a9bd82503",
+      "kind": "image",
+      "name": "hod.png",
+      "path": "/tmp/browser-use/assets/249afa2f-6ee2-47a0-bea0-3610a53ddc66/4b6a983a9bd82503.png",
+      "url": "https://bcarvu.netlify.app/assets/faculty/hod.png"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "ba4e5e1841fa474b",
+      "kind": "image",
+      "name": "student1.jpg",
+      "path": "/tmp/browser-use/assets/249afa2f-6ee2-47a0-bea0-3610a53ddc66/ba4e5e1841fa474b.jpg",
+      "url": "https://bcarvu.netlify.app/assets/images/student1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "937329a691fb05d9",
+      "kind": "image",
+      "name": "student3.jpg",
+      "path": "/tmp/browser-use/assets/249afa2f-6ee2-47a0-bea0-3610a53ddc66/937329a691fb05d9.jpg",
+      "url": "https://bcarvu.netlify.app/assets/images/student3.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "701dcf4a20740d48",
+      "kind": "image",
+      "name": "student2.jpg",
+      "path": "/tmp/browser-use/assets/249afa2f-6ee2-47a0-bea0-3610a53ddc66/701dcf4a20740d48.jpg",
+      "url": "https://bcarvu.netlify.app/assets/images/student2.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "8586c2325b94399a",
+      "kind": "image",
+      "name": "hero1.jpg",
+      "path": "/tmp/browser-use/assets/249afa2f-6ee2-47a0-bea0-3610a53ddc66/8586c2325b94399a.jpg",
+      "url": "https://bcarvu.netlify.app/assets/images/hero1.jpg"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7a4b746d46c66bb2",
+      "kind": "image",
+      "name": "hero2.jpg",
+      "path": "/tmp/browser-use/assets/249afa2f-6ee2-47a0-bea0-3610a53ddc66/7a4b746d46c66bb2.jpg",
+      "url": "https://bcarvu.netlify.app/assets/images/hero2.jpg"
+    }
+  ],
+  "failures": []
+}
